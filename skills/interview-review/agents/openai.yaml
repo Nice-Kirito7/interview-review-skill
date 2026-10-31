@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试复盘与项目宝典"
+  short_description: "从逐字稿诊断问题、提炼可口述问答，并持续维护各项目 MASTER 与公共题库"
+  default_prompt: "使用 $interview-review 复盘本次面试，提炼 QA，并按当前授权范围维护对应项目 MASTER。"
